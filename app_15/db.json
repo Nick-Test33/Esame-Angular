@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "password": "pass1"
+    },
+    {
+      "id": "2",
+      "username": "user2",
+      "password": "pass2"
+    }
+  ],
+  "clients": [
+    {
+      "id": "1",
+      "codice_fiscale": "ABCD12345E01H501Z",
+      "nome": "Matteo",
+      "cognome": "Nero",
+      "azienda": "Nero Innovations Srl",
+      "email": "matteo.nero@example.com",
+      "userId": 1
+    },
+    {
+      "id": "2",
+      "codice_fiscale": "EFGH67890F01H501X",
+      "nome": "Laura",
+      "cognome": "Blu",
+      "azienda": "Blu Enterprises",
+      "email": "laura.blu@example.com",
+      "userId": 1
+    },
+    {
+      "id": "3",
+      "codice_fiscale": "IJKL13579G41H501Y",
+      "nome": "Francesco",
+      "cognome": "Verde",
+      "azienda": "Verde Solutions",
+      "email": "francesco.verde@example.com",
+      "userId": 1
+    },
+    {
+      "id": "4",
+      "codice_fiscale": "MNOP24680H51H501W",
+      "nome": "Sofia",
+      "cognome": "Gialli",
+      "azienda": "Gialli Group",
+      "email": "sofia.gialli@example.com",
+      "userId": 1
+    },
+    {
+      "id": "5",
+      "codice_fiscale": "QRST13579I61H501V",
+      "nome": "Alberto",
+      "cognome": "Pini",
+      "azienda": "Pini Corp.",
+      "email": "alberto.pini@example.com",
+      "userId": 2
+    },
+    {
+      "id": "6",
+      "codice_fiscale": "UVW24680J71H501U",
+      "nome": "Elena",
+      "cognome": "Fiori",
+      "azienda": "Fiori Group",
+      "email": "elena.fiori@example.com",
+      "userId": 2
+    },
+    {
+      "id": "7",
+      "codice_fiscale": "XYZ13579K81H501T",
+      "nome": "Giorgio",
+      "cognome": "Neri",
+      "azienda": "Neri Industries",
+      "email": "giorgio.neri@example.com",
+      "userId": 2
+    }
+  ]
+}
